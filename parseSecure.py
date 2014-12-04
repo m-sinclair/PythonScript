@@ -28,7 +28,7 @@ if __name__ == '__main__':
                 else:
                      	count = 0
                         ipOld = ipNew
-       if count > 4:
+        if count > 4:
 		count = 0
 		ipString = str(ipNew)
 
